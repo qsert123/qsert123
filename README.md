@@ -23,7 +23,7 @@
   <a href="https://twitter.com/arshekhjohn7" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/arshekh john jd" target="_blank">
+  <a href="https://www.linkedin.com/in/arshekh-john-jd-14477232a/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/qsert123" target="_blank">
