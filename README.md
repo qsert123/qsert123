@@ -73,10 +73,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=qsert123&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
----
-
-## 🐍 GitHub Contribution Snake
-
-![Snake animation](https://github.com/qsert123/qsert123/blob/output/github-contribution-grid-snake.svg)
 
 ---
