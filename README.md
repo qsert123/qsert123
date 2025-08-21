@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arshekh</h1>
-<h3 align="center">A passionate AI/ML enthusiast from Tamil Nadu, India 🇮🇳</h3>
+<h3 align="center">A passionate AI/ML enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=qsert123&label=Profile%20views&color=0e75b6&style=flat" alt="qsert123" />
