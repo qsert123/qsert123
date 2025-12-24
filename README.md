@@ -1,78 +1,90 @@
-<h1 align="center">Hi 👋, I'm Arshekh</h1>
-<h3 align="center">A passionate AI/ML enthusiast</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=200&section=header&text=Hi%20I'm%20Arshekh%20JD&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Enthusiast;Machine+Learning+Practitioner;Neural+Networks+Learner;AI+Research+Focused&center=true&width=520&height=45">
+</p>
+
+---
+
+## 📌 About Me
+- 📊 Passionate about **Data Science & Analytics**
+- 🤖 Working on **Machine Learning & Neural Networks**
+- 🧠 Interested in **Deep Learning & NLP**
+- 📈 Love turning data into insights
+- 🔬 Focused on research-oriented projects
+
+---
+
+## 🧰 Core Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,numpy,pandas,matplotlib,jupyter&theme=dark" />
+</p>
+
+---
+
+## 🧪 ML & NN Domains
+- Supervised & Unsupervised Learning  
+- Neural Networks (ANN, CNN, RNN)  
+- Natural Language Processing (NLP)  
+- Model Evaluation & Optimization  
+- Feature Engineering & Data Cleaning  
+
+---
+
+## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=qsert123&label=Profile%20views&color=0e75b6&style=flat" alt="qsert123" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="40%" />
 </p>
 
+---
+
+## 🧠 Featured Work
+- 📘 **Neural Network Implementations**  
+- 🧪 **ML Models from Scratch**  
+- 📊 **Exploratory Data Analysis (EDA)**  
+- 🧠 **NLP & Language Models**  
+
+📌 *Check pinned repositories for detailed projects*
+
+---
+
+## 🏆 GitHub Achievements
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=qsert123&theme=darkhub" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 📫 Reach Me At
-**Email:** arshekhjohn7@gmail.com
-
----
-
-### 🌐 Connect with Me
-<p>
-  <a href="https://twitter.com/arshekhjohn7" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/arshekh-john-jd-14477232a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/qsert123" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+## 👁️ Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
----
-
-## 🧠 Tech Stack
-
-### 💻 Web Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-### 🧑‍💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=java&logoColor=black)
-
-### 🔍 AI / Machine Learning
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-2E4053?style=flat)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qsert123&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:243B55,100:141E30&height=120&section=footer"/>
 </p>
-
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=qsert123&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-
----
