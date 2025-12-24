@@ -1,90 +1,63 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=200&section=header&text=Hi%20I'm%20Arshekh%20JD&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+# Arshekh JD
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Enthusiast;Machine+Learning+Practitioner;Neural+Networks+Learner;AI+Research+Focused&center=true&width=520&height=45">
-</p>
+### Research Interests
+Data Science · Machine Learning · Neural Networks · Deep Learning · NLP
 
 ---
 
-## 📌 About Me
-- 📊 Passionate about **Data Science & Analytics**
-- 🤖 Working on **Machine Learning & Neural Networks**
-- 🧠 Interested in **Deep Learning & NLP**
-- 📈 Love turning data into insights
-- 🔬 Focused on research-oriented projects
+## Academic Focus
+I am primarily interested in the theoretical and practical aspects of **Machine Learning** and **Neural Networks**, with an emphasis on data-driven modeling, representation learning, and empirical evaluation of algorithms. My work focuses on building models from first principles and understanding their behavior through experimentation.
 
 ---
 
-## 🧰 Core Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,numpy,pandas,matplotlib,jupyter&theme=dark" />
-</p>
-
----
-
-## 🧪 ML & NN Domains
-- Supervised & Unsupervised Learning  
+## Research Areas
+- Supervised and Unsupervised Learning  
 - Neural Networks (ANN, CNN, RNN)  
+- Deep Learning Optimization  
 - Natural Language Processing (NLP)  
-- Model Evaluation & Optimization  
-- Feature Engineering & Data Cleaning  
+- Statistical Learning & Data Analysis  
 
 ---
 
-## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="40%" />
-</p>
+## Technical Skills
+**Programming:** Python  
+**ML/DL Frameworks:** PyTorch, TensorFlow, scikit-learn  
+**Data Science:** NumPy, Pandas, Matplotlib, Seaborn  
+**Tools:** Jupyter Notebook, Git  
 
 ---
 
-## 🧠 Featured Work
-- 📘 **Neural Network Implementations**  
-- 🧪 **ML Models from Scratch**  
-- 📊 **Exploratory Data Analysis (EDA)**  
-- 🧠 **NLP & Language Models**  
+## Research Work & Projects
+- Implementation of Machine Learning algorithms from scratch  
+- Neural Network architectures and training analysis  
+- Exploratory Data Analysis (EDA) on real-world datasets  
+- Language modeling and NLP experiments  
 
-📌 *Check pinned repositories for detailed projects*
+> See pinned repositories for detailed experiments and implementations.
 
 ---
 
-## 🏆 GitHub Achievements
+## GitHub Metrics
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" width="40%" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+## Current Learning
+- Advanced Neural Network architectures  
+- Model generalization and regularization  
+- Optimization techniques for deep learning  
+- Research methodologies in ML  
 
 ---
 
-## 👁️ Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
-</p>
+## Contact
+- GitHub: https://github.com/YOUR_USERNAME  
+- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN  
+- Email: YOUR_EMAIL  
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:243B55,100:141E30&height=120&section=footer"/>
-</p>
+---
+
+*This profile is intended to document research-oriented learning, experimentation, and reproducible implementations in Machine Learning and Neural Networks.*
