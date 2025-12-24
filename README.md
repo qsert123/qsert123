@@ -1,47 +1,4 @@
-<p align="center">
-<svg width="100%" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Background -->
-  <rect width="800" height="180" fill="#0b0f14"/>
-
-  <!-- Cloud -->
-  <g fill="#cfd9df">
-    <ellipse cx="400" cy="40" rx="70" ry="25"/>
-    <ellipse cx="360" cy="45" rx="50" ry="20"/>
-    <ellipse cx="440" cy="45" rx="50" ry="20"/>
-  </g>
-
-  <!-- Symbol Rain -->
-  <g fill="#00eaff" font-family="monospace" font-size="16">
-
-    <text x="360" y="70">_ 
-      <animateTransform attributeName="transform" type="translate"
-        from="0 0" to="0 110" dur="2s" repeatCount="indefinite"/>
-    </text>
-
-    <text x="390" y="70">$ 
-      <animateTransform attributeName="transform" type="translate"
-        from="0 0" to="0 120" dur="2.4s" repeatCount="indefinite"/>
-    </text>
-
-    <text x="420" y="70">&amp; 
-      <animateTransform attributeName="transform" type="translate"
-        from="0 0" to="0 115" dur="2.1s" repeatCount="indefinite"/>
-    </text>
-
-    <text x="450" y="70">+ 
-      <animateTransform attributeName="transform" type="translate"
-        from="0 0" to="0 130" dur="2.6s" repeatCount="indefinite"/>
-    </text>
-
-    <text x="330" y="70">( ) 
-      <animateTransform attributeName="transform" type="translate"
-        from="0 0" to="0 125" dur="2.3s" repeatCount="indefinite"/>
-    </text>
-
-  </g>
-</svg>
-</p>
 <h1 align="center">Arshekh John JD</h1>
 <h3 align="center">Final Year Undergraduate — Artificial Intelligence & Data Science</h3>
 
