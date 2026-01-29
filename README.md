@@ -42,33 +42,6 @@ My academic interests lie in understanding the mathematical foundations of machi
 
 ---
 
-## Technical Skill Set
-**Programming Language**
-- Python  
-
-**Libraries & Frameworks**
-- NumPy, Pandas  
-- scikit-learn  
-- PyTorch, TensorFlow  
-
-**Data Visualization**
-- Matplotlib  
-- Seaborn  
-
-**Tools**
-- Jupyter Notebook  
-- Git & GitHub  
-
----
-
-## GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" width="40%" />
-</p>
-
----
-
 ## Focused Areas of Work
 ### Data Science
 - Data preprocessing and cleaning  
@@ -80,7 +53,6 @@ My academic interests lie in understanding the mathematical foundations of machi
 - Neural network experiments  
 - Deep learning studies  
 
-> Refer to pinned repositories for detailed project documentation and experiments.
 
 ---
 
@@ -92,15 +64,8 @@ My academic interests lie in understanding the mathematical foundations of machi
 
 ---
 
-## Contact
-- GitHub: https://github.com/YOUR_USERNAME  
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN  
-- Email: YOUR_EMAIL  
+## Contact 
+- LinkedIn: https://www.linkedin.com/in/arshekh-john-jd-14477232a/ 
+- Email: arshekhjohn7@gmail.com  
 
 ---
-
-<p align="center">
-  <em>
-    This profile serves as a record of my academic progress, experiments, and research-oriented learning in Artificial Intelligence and Data Science.
-  </em>
-</p>
