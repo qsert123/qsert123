@@ -7,14 +7,6 @@
     Research-focused learner working on Machine Learning, Neural Networks, and Data-driven intelligence systems.
   </em>
 </p>
-<h1 align="center">Arshekh John JD</h1>
-<h3 align="center">Final Year Undergraduate — Artificial Intelligence & Data Science</h3>
-
-<p align="center">
-  <em>
-    Research-focused learner exploring Machine Learning, Neural Networks, and Data-driven intelligence systems.
-  </em>
-</p>
 
 ---
 
