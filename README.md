@@ -1,63 +1,56 @@
+# 💻 ARSHEKH JOHN JD  
+**Data Engineer • AI Engineer • Data Analyst**  
 
-<h1 align="center">Arshekh John JD</h1>
-<h3 align="center">Final Year Undergraduate — Artificial Intelligence & Data Science</h3>
+🎓 B.E. in Artificial Intelligence & Data Science  
 
-<p align="center">
-  <em>
-    Research-focused learner working on Machine Learning, Neural Networks, and Data-driven intelligence systems.
-  </em>
-</p>
+📍 India • 🌐 Open to work  
 
----
-
-## Academic Overview
-I am a final year undergraduate student specializing in **Artificial Intelligence and Data Science**.  
-My academic interests lie in understanding the mathematical foundations of machine learning models, designing neural network architectures, and analyzing data to extract meaningful insights. I aim to build strong theoretical knowledge supported by reproducible experimental work.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshekh-john-jd-14477232a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshekhjohn2004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arshekhjohn)
 
 ---
 
-## Research Interests
-- Machine Learning Algorithms  
-- Neural Networks (ANN, CNN, RNN)  
-- Deep Learning & Optimization  
-- Natural Language Processing  
-- Statistical Data Analysis  
+## 🔭 Namaste 🙏  
+
+I'm a **undergraduated** specializing in **Artificial Intelligence & Data Science**.  
+I build **data pipelines**, train **neural networks**, and turn raw data into **actionable insights**.  
+
+My goal is to work as a **Data Engineer**, **AI Engineer**, or **Data Analyst** — solving real-world problems with scalable, intelligent systems.
+
+> *“Simplicity is the soul of efficiency.”*
 
 ---
 
-## Research & Practical Work
-- Implementation of machine learning algorithms from scratch  
-- Neural network training and performance analysis  
-- Exploratory Data Analysis (EDA) on real-world datasets  
-- Feature engineering and model evaluation  
-- Experimentation using reproducible Jupyter notebooks  
+## 🧠 About Me
+
+- 🎯 Currently working on: **End-to-end data projects** (ETL + ML + dashboards)
+- 🔬 Research interests: ML algorithms, Neural Networks (ANN/CNN/RNN), NLP, Optimization
+- 📊 Data passion: EDA, feature engineering, model evaluation, visualization
+- 🛠️ Building reproducible Jupyter notebooks & Python pipelines
+- 💬 Ask me about: **Python, SQL, TensorFlow, Pandas, Power BI**
+- ⚡ Fun fact: I like clean code, clean data, and clean dashboards
 
 ---
 
-## Focused Areas of Work
-### Data Science
-- Data preprocessing and cleaning  
-- Statistical analysis  
-- Visualization and interpretation  
+## 🛠️ Tech Stack
 
-### Artificial Intelligence
-- Machine learning models  
-- Neural network experiments  
-- Deep learning studies  
-
+| Category | Tools |
+|----------|-------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **ML & AI** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Visualization** | ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+| **Databases** | MySQL, PostgreSQL |
+| **Tools** | Jupyter, Git, VS Code |
 
 ---
 
-## Current Learning Objectives
-- Advanced neural network architectures  
-- Generalization and regularization techniques  
-- Optimization strategies in deep learning  
-- Research methodology in AI and data science  
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/arshekh-john-jd-14477232a/)
+- 📧 [arshekhjohn2004@gmail.com](mailto:arshekhjohn2004@gmail.com)
+- 🌐 Open to **Data Engineer / AI Engineer / Data Analyst** roles
 
 ---
 
-## Contact 
-- LinkedIn: https://www.linkedin.com/in/arshekh-john-jd-14477232a/ 
-- Email: arshekhjohn7@gmail.com  
-
----
+*“Turning data into decisions, one pipeline at a time.”*
