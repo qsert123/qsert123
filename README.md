@@ -11,7 +11,7 @@
 
 ---
 
-## 🔭 Namaste 🙏  
+## 🔭 Hello 🙏  
 
 I'm a **undergraduated** specializing in **Artificial Intelligence & Data Science**.  
 I build **data pipelines**, train **neural networks**, and turn raw data into **actionable insights**.  
