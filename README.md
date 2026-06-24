@@ -42,6 +42,7 @@ My goal is to work as a **Data Engineer**, **AI Engineer**, or **Data Analyst** 
 | **Visualization** | ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
 | **Databases** | MySQL, PostgreSQL |
 | **Tools** | Jupyter, Git, VS Code |
+| **Library** | Selenium, BeautifulSoup, FastAPI|
 
 ---
 
