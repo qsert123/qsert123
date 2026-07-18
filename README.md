@@ -1,4 +1,5 @@
-# 💻 ARSHEKH JOHN JD  
+# 💻 ARSHEKH JOHN JD 
+# Data Analyst @InstaTenders
 **Data Engineer • AI Engineer • Data Analyst**  
 
 🎓 B.E. in Artificial Intelligence & Data Science  
@@ -7,13 +8,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshekh-john-jd-14477232a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshekhjohn2004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arshekhjohn)
 
 ---
 
 ## 🔭 Hello 🙏  
 
-I'm a **undergraduated** specializing in **Artificial Intelligence & Data Science**.  
+I'm a **Data Analyst** specializing in **Artificial Intelligence & Data Science**.  
 I build **data pipelines**, train **neural networks**, and turn raw data into **actionable insights**.  
 
 My goal is to work as a **Data Engineer**, **AI Engineer**, or **Data Analyst** — solving real-world problems with scalable, intelligent systems.
@@ -50,6 +50,7 @@ My goal is to work as a **Data Engineer**, **AI Engineer**, or **Data Analyst** 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arshekh-john-jd-14477232a/)
 - 📧 [arshekhjohn2004@gmail.com](mailto:arshekhjohn2004@gmail.com)
+- 👾 .[Portfolio](https://arshekh.vercel.app/)
 - 🌐 Open to **Data Engineer / AI Engineer / Data Analyst** roles
 
 ---
